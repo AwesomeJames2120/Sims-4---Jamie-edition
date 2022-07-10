@@ -1,12 +1,7 @@
 # Sex-Is-A-Sidequest
 A sims 4 modlist with a sprinkling of sex
 
-Something something blah blah blah
-
-
-go into options and make sure script mods are enabled
-if you dont do this then i reserve the right to laugh at you
-
+Note: This list is in very very very early stages, from what i've played of it its pretty damn stable but theres always issues with this kind of thing
 # Pre installation
 Due to the wonders of the sites people use to host sims 4 mods, a lot of them can't seem to actually be downloaded via wabbajack. Its cringe. Because of this, you will need to download the following manually, and place them in the folder that wabbajack will put the rest of the downloads in. (I may also be stupid, keep this in mind)
 
