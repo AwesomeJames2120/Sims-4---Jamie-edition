@@ -44,6 +44,8 @@ Next, go hit the play button to the right. Assuming that we both didn't bugger t
 
 Once you're done, go to where you installed the list and open mod organiser, then scroll all the way down to the dlc section. In there you will see a bunch of mods that will not function (and *may* do something weird if you keep them installed without the dlc) if you dont have the expansion they're for. Simply disable them if this is the case.
 
-After all that, you can click run at the top right and finally launch the game. However there is one last thing you will need to do first. In the options menu you will need to enable the custom content and custom scripts for stuff to actually work. ![image](https://user-images.githubusercontent.com/44416823/177168780-cbfd74b8-831a-4ff8-bd6e-6db6f1a641d5.png)
+After all that, you can click run at the top right and finally launch the game. However there is one last thing you will need to do first. In the options menu you will need to enable the custom content and custom scripts for stuff to actually work.
 
-Once thats done, you're ready to start gaming. Direct any suggestions to me via ping
+![image](https://user-images.githubusercontent.com/44416823/177168780-cbfd74b8-831a-4ff8-bd6e-6db6f1a641d5.png)
+
+Once thats done, you're ready to start gaming. Direct any suggestions and issues to me via ping
