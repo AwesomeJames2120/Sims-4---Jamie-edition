@@ -2,7 +2,7 @@
 A sims 4 modlist with a sprinkling of sex
 
 Something something blah blah blah
-![image](https://user-images.githubusercontent.com/44416823/177168780-cbfd74b8-831a-4ff8-bd6e-6db6f1a641d5.png)
+
 
 go into options and make sure script mods are enabled
 if you dont do this then i reserve the right to laugh at you
@@ -40,3 +40,10 @@ You will also need to run your sims 4 at least once so that the paths get set up
 
 Open the wabbajack file for this modlist, then set the paths for where you want the modlist installed, and the path to the folder containing the above files. The end result should look something like this![image](https://user-images.githubusercontent.com/44416823/178158104-e17e8c3f-389f-436a-9950-a5493881ca34.png)
 
+Next, go hit the play button to the right. Assuming that we both didn't bugger this up, it should install correctly after downloading the mods its missing.
+
+Once you're done, go to where you installed the list and open mod organiser, then scroll all the way down to the dlc section. In there you will see a bunch of mods that will not function (and *may* do something weird if you keep them installed without the dlc) if you dont have the expansion they're for. Simply disable them if this is the case.
+
+After all that, you can click run at the top right and finally launch the game. However there is one last thing you will need to do first. In the options menu you will need to enable the custom content and custom scripts for stuff to actually work. ![image](https://user-images.githubusercontent.com/44416823/177168780-cbfd74b8-831a-4ff8-bd6e-6db6f1a641d5.png)
+
+Once thats done, you're ready to start gaming. Direct any suggestions to me via ping
