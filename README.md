@@ -23,13 +23,12 @@ https://www.nexusmods.com/thesims4/mods/604?tab=files&file_id=1097
 
 https://simrealist.itch.io/organic
 
-https://mega.nz/folder/FDpmyYqb#NGCpKyIUvEgyDA4n274VcA/file/waYiUZgI
+https://mega.nz/folder/FDpmyYqb#NGCpKyIUvEgyDA4n274VcA/file/waYiUZgI (download this one as a zip, not a standard download)
 
 https://mega.nz/folder/3J1EhKDA#U8dwAIgbgmY4iXkxrKDM5Q/file/fI9SlIxY
 
 https://kuttoe.itch.io/new-hobby-traits
 
-https://mega.nz/folder/FDpmyYqb#NGCpKyIUvEgyDA4n274VcA (this one is a bit weird, but download it as a zip if it doesnt download normally via wabbajack)
 
 You will also need to run your sims 4 at least once so that the paths get set up correctly
 
