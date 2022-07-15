@@ -29,6 +29,9 @@ https://mega.nz/folder/3J1EhKDA#U8dwAIgbgmY4iXkxrKDM5Q/file/fI9SlIxY
 
 https://kuttoe.itch.io/new-hobby-traits
 
+https://download2388.mediafire.com/9hsrc6kfq3ag/opkxqfhdj01yo9b/NotEgain_CatTail_and_CatEars_All.rar
+
+
 
 You will also need to run your sims 4 at least once so that the paths get set up correctly
 
