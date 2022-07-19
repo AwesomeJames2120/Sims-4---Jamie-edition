@@ -25,7 +25,7 @@ https://simrealist.itch.io/organic
 
 https://mega.nz/folder/FDpmyYqb#NGCpKyIUvEgyDA4n274VcA/file/waYiUZgI
 
-https://mega.nz/folder/3J1EhKDA#U8dwAIgbgmY4iXkxrKDM5Q/file/fI9SlIxY
+https://mega.nz/folder/3J1EhKDA#U8dwAIgbgmY4iXkxrKDM5Q/file/fI9SlIxY (Toddler skin only)
 
 https://kuttoe.itch.io/new-hobby-traits
 
