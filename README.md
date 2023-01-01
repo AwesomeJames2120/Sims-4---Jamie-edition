@@ -5,33 +5,37 @@ Note: This list is in very very very early stages, from what i've played of it i
 # Pre installation
 Due to the wonders of the sites people use to host sims 4 mods, a lot of them can't seem to actually be downloaded via wabbajack. Its cringe. Because of this, you will need to download the following manually, and place them in the folder that wabbajack will put the rest of the downloads in. (I may also be stupid, keep this in mind)
 
-https://basementalcc.com/adult_mods/basemental-drugs/
-
-https://basementalcc.com/adult_mods/basemental-gangs/
-
-https://basementalcc.com/mods/universal-venue-list/
+https://roburky.itch.io/sims4-meaningful-stories
 
 https://modthesims.info/d/648717/lifetime-aspirations-v-04.html
 
-https://roburky.itch.io/sims4-meaningful-stories
+https://simrealist.itch.io/organic
+
+https://kuttoe.itch.io/new-hobby-traits
 
 https://cdn.simfileshare.net/download/1145576/?dl
 
 https://drive.google.com/file/d/19nnXIWpy0vYR9NsoHQPa-QGFO1jSGzG5/view?usp=sharing
 
-https://www.nexusmods.com/thesims4/mods/604?tab=files&file_id=1097
-
-https://simrealist.itch.io/organic
-
-https://mega.nz/folder/FDpmyYqb#NGCpKyIUvEgyDA4n274VcA/file/waYiUZgI
+https://mega.nz/folder/FDpmyYqb#NGCpKyIUvEgyDA4n274VcA/file/waYiUZgI - 1.69.57
 
 https://mega.nz/folder/3J1EhKDA#U8dwAIgbgmY4iXkxrKDM5Q/file/fI9SlIxY (Toddler skin only)
 
-https://kuttoe.itch.io/new-hobby-traits
+https://filedn.eu/lR7BpdmQl5KRLRTrBftolFB/sims4/mods/gameplay/LittleMsSam_RetailOverhaul.zip
 
-https://download2388.mediafire.com/9hsrc6kfq3ag/opkxqfhdj01yo9b/NotEgain_CatTail_and_CatEars_All.rar
+https://sacrificialmods.com/assets/sac---road-to-fame--mod--v-0.5-b2.zip
 
+https://www.patreon.com/file?h=27751117&i=10994453
 
+https://modthesims.info/d/648717/lifetime-aspirations-v-04.html
+
+https://sacrificialmods.com/assets/sac---life-s-drama--mod--v-2.0.5.zip
+
+https://chii.modthesims.info/getfile.php?file=1694171
+
+https://mega.nz/folder/FDpmyYqb#NGCpKyIUvEgyDA4n274VcA/file/waYiUZgI
+
+http://www.simfileshare.net/download/2251515/
 
 You will also need to run your sims 4 at least once so that the paths get set up correctly
 
@@ -46,6 +50,14 @@ Once you're done, go to where you installed the list and open mod organiser, the
 # Manual mod installation
 
 Any mod marked with a !before it is a mod that you will need to install manually, as their constant updating + not being on the nexus or loverslab makes stuff very difficult to update.
+
+Grab the latest version from the following links:
+
+https://basementalcc.com/adult_mods/basemental-drugs/
+
+https://basementalcc.com/adult_mods/basemental-gangs/
+
+https://basementalcc.com/mods/universal-venue-list/
 
 # Running the game
 
