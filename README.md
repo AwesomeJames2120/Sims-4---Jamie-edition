@@ -49,13 +49,19 @@ Once you're done, go to where you installed the list and open mod organiser, the
 
 Any mod marked with a !before it is a mod that you will need to install manually, as their constant updating + not being on the nexus or loverslab makes stuff very difficult to update.
 
-Grab the latest version from the following links:
+Grab the latest version from the following links and put them in their folders (marked with a !):
 
 https://basementalcc.com/adult_mods/basemental-drugs/
 
 https://basementalcc.com/adult_mods/basemental-gangs/
 
 https://basementalcc.com/mods/universal-venue-list/
+
+# Personal Taste
+
+These mods arent needed but 
+
+https://sacrificialmods.com/downloads.html - these are very stupid and not for everyone, but they are fun - install what looks cool to !sacrificial mods
 
 # Running the game
 
