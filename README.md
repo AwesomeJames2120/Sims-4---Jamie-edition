@@ -23,13 +23,9 @@ https://mega.nz/folder/3J1EhKDA#U8dwAIgbgmY4iXkxrKDM5Q/file/fI9SlIxY (Toddler sk
 
 https://filedn.eu/lR7BpdmQl5KRLRTrBftolFB/sims4/mods/gameplay/LittleMsSam_RetailOverhaul.zip
 
-https://sacrificialmods.com/assets/sac---road-to-fame--mod--v-0.5-b2.zip
-
 https://www.patreon.com/file?h=27751117&i=10994453
 
 https://modthesims.info/d/648717/lifetime-aspirations-v-04.html
-
-https://sacrificialmods.com/assets/sac---life-s-drama--mod--v-2.0.5.zip
 
 https://chii.modthesims.info/getfile.php?file=1694171
 
