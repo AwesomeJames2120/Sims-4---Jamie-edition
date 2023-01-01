@@ -39,11 +39,18 @@ Any mod marked with a !before it is a mod that you will need to install manually
 
 Grab the latest version from the following links and put them in their folders (marked with a !):
 
+https://www.patreon.com/posts/58259532
+
+https://deaderpool-mccc.com/#/
+
+https://basementalcc.com/mods/universal-venue-list/
+
+https://www.patreon.com/posts/all-scenarios-ea-59069062
+
 https://basementalcc.com/adult_mods/basemental-drugs/
 
 https://basementalcc.com/adult_mods/basemental-gangs/
 
-https://basementalcc.com/mods/universal-venue-list/
 
 https://www.patreon.com/posts/more-columns-in-27751117 (I use 5 colums, but this is up to you)
 
