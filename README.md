@@ -23,8 +23,6 @@ https://mega.nz/folder/3J1EhKDA#U8dwAIgbgmY4iXkxrKDM5Q/file/fI9SlIxY (Toddler sk
 
 https://filedn.eu/lR7BpdmQl5KRLRTrBftolFB/sims4/mods/gameplay/LittleMsSam_RetailOverhaul.zip
 
-https://www.patreon.com/posts/more-columns-in-27751117
-
 https://modthesims.info/d/648717/lifetime-aspirations-v-04.html
 
 https://chii.modthesims.info/getfile.php?file=1694171
