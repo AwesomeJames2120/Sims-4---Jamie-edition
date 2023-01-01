@@ -33,8 +33,6 @@ https://sacrificialmods.com/assets/sac---life-s-drama--mod--v-2.0.5.zip
 
 https://chii.modthesims.info/getfile.php?file=1694171
 
-https://mega.nz/folder/FDpmyYqb#NGCpKyIUvEgyDA4n274VcA/file/waYiUZgI
-
 http://www.simfileshare.net/download/2251515/
 
 You will also need to run your sims 4 at least once so that the paths get set up correctly
