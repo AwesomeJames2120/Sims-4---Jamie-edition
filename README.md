@@ -19,9 +19,6 @@ https://drive.google.com/file/d/19nnXIWpy0vYR9NsoHQPa-QGFO1jSGzG5/view?usp=shari
 
 https://mega.nz/folder/FDpmyYqb#NGCpKyIUvEgyDA4n274VcA/file/waYiUZgI - 1.69.57
 
-https://mega.nz/folder/3J1EhKDA#U8dwAIgbgmY4iXkxrKDM5Q/file/fI9SlIxY (Toddler skin only)
-
-
 https://modthesims.info/d/648717/lifetime-aspirations-v-04.html
 
 http://www.simfileshare.net/download/2251515/
