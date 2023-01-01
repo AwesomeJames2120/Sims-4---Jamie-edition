@@ -43,7 +43,9 @@ Next, go hit the play button to the right. Assuming that we both didn't bugger t
 
 Once you're done, go to where you installed the list and open mod organiser, then scroll all the way down to the dlc section. In there you will see a bunch of mods that will not function (and *may* do something weird if you keep them installed without the dlc) if you dont have the expansion they're for. Simply disable them if this is the case.
 
-Next, any mod marked with a !before it is a mod that you will need to install manually, as their constant updating + not being on the nexus or loverslab makes stuff very difficult to update.
+## Manual mod installation
+
+Any mod marked with a !before it is a mod that you will need to install manually, as their constant updating + not being on the nexus or loverslab makes stuff very difficult to update.
 
 After all that, you can click run at the top right and finally launch the game. However there is one last thing you will need to do first. In the options menu you will need to enable the custom content and custom scripts for stuff to actually work.
 
