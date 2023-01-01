@@ -5,13 +5,8 @@ Note: This list is in very very very early stages, from what i've played of it i
 # Pre installation
 Due to the wonders of the sites people use to host sims 4 mods, a lot of them can't seem to actually be downloaded via wabbajack. Its cringe. Because of this, you will need to download the following manually, and place them in the folder that wabbajack will put the rest of the downloads in. (I may also be stupid, keep this in mind)
 
-https://roburky.itch.io/sims4-meaningful-stories
 
 https://modthesims.info/d/648717/lifetime-aspirations-v-04.html
-
-https://simrealist.itch.io/organic
-
-https://kuttoe.itch.io/new-hobby-traits
 
 https://cdn.simfileshare.net/download/1145576/?dl
 
@@ -39,22 +34,29 @@ Any mod marked with a !before it is a mod that you will need to install manually
 
 Grab the latest version from the following links and put them in their folders (marked with a !):
 
-https://www.patreon.com/posts/58259532
+https://www.patreon.com/posts/58259532 - Better build buy
 
-https://deaderpool-mccc.com/#/
+https://deaderpool-mccc.com/#/ - Mc command centre!
 
-https://basementalcc.com/mods/universal-venue-list/
+https://basementalcc.com/mods/universal-venue-list/ - I dont know what this does!!
 
-https://www.patreon.com/posts/all-scenarios-ea-59069062
+https://www.patreon.com/posts/all-scenarios-ea-59069062 - This makes all the fun scenarios always avaliable since ea is an awful company!
 
-https://basementalcc.com/adult_mods/basemental-drugs/
+https://simrealist.itch.io/organic - makes your hair grow and other neat stuff
 
-https://basementalcc.com/adult_mods/basemental-gangs/
+https://roburky.itch.io/sims4-meaningful-stories - Makes your sims mood good or something im writing this at 4 am help me
 
+https://kuttoe.itch.io/new-hobby-traits - eyo more traits???
 
-https://www.patreon.com/posts/more-columns-in-27751117 (I use 5 colums, but this is up to you)
+https://basementalcc.com/adult_mods/basemental-drugs/ - Drugs!!
 
-https://filedn.eu/lR7BpdmQl5KRLRTrBftolFB/sims4/mods/gameplay/LittleMsSam_RetailOverhaul.zip
+https://www.loverslab.com/files/file/5002-nisa’s-wicked-perversions/ - Some real wacky shit, like god damn read this page
+
+https://basementalcc.com/adult_mods/basemental-gangs/ - Gang Warfare!!
+
+https://www.patreon.com/posts/more-columns-in-27751117 - more columns (I use 5 colums, but this is up to you)
+
+https://filedn.eu/lR7BpdmQl5KRLRTrBftolFB/sims4/mods/gameplay/LittleMsSam_RetailOverhaul.zip - retail overhaul
 
 https://modthesims.info/d/594573/have-some-personality-please.html - Main mod only
 
@@ -63,6 +65,10 @@ https://modthesims.info/d/594573/have-some-personality-please.html - Main mod on
 These mods arent needed but 
 
 https://sacrificialmods.com/downloads.html - these are very stupid and not for everyone, but they are fun - install what looks cool to !sacrificial mods
+
+https://wickedwhimsmod.com/download - install the sex animation packs you want from here
+
+Your own stuff is where cool people like you put your custom content like cat ears and horrific looking shark teeth
 
 # Running the game
 
