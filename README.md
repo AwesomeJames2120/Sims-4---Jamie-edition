@@ -23,7 +23,7 @@ https://mega.nz/folder/3J1EhKDA#U8dwAIgbgmY4iXkxrKDM5Q/file/fI9SlIxY (Toddler sk
 
 https://filedn.eu/lR7BpdmQl5KRLRTrBftolFB/sims4/mods/gameplay/LittleMsSam_RetailOverhaul.zip
 
-https://www.patreon.com/file?h=27751117&i=10994453
+https://www.patreon.com/posts/more-columns-in-27751117
 
 https://modthesims.info/d/648717/lifetime-aspirations-v-04.html
 
@@ -52,6 +52,8 @@ https://basementalcc.com/adult_mods/basemental-drugs/
 https://basementalcc.com/adult_mods/basemental-gangs/
 
 https://basementalcc.com/mods/universal-venue-list/
+
+https://www.patreon.com/posts/more-columns-in-27751117 (I use 5 colums, but this is up to you)
 
 # Personal Taste
 
