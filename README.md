@@ -1,5 +1,5 @@
-# Sex-Is-A-Sidequest
-A sims 4 modlist with a sprinkling of sex
+# Sims 4 - Jamie edition
+A sims 4 modlist that somehow works with wabbajack
 
 Note: This list is in very very very early stages, from what i've played of it its pretty damn stable but theres always issues with this kind of thing
 
