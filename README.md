@@ -4,6 +4,8 @@ A sims 4 modlist that somehow works with wabbajack
 Note: This list is in very very very early stages, from what i've played of it its pretty damn stable but theres always issues with this kind of thing
 
 If by the end of this experience you for some reason want to shove money down my throat, [my mouth is right here](https://www.paypal.com/donate/?business=EBWC5CYKDQK3E&no_recurring=0&item_name=I+do+stuff&currency_code=AUD)
+
+Final important note: Mod organiser is a bitch and refuseds to work with sims 4 on anything other than my pc. Can you fix this? If yes show me and i will give you 5 entire dollars (australian)
 # Pre installation
 Due to the wonders of the sites people use to host sims 4 mods, a lot of them can't seem to actually be downloaded via wabbajack. Its cringe. Because of this, you will need to download the following manually, and place them in the folder that wabbajack will put the rest of the downloads in. (I may also be stupid, keep this in mind)
 
