@@ -64,6 +64,8 @@ https://filedn.eu/lR7BpdmQl5KRLRTrBftolFB/sims4/mods/gameplay/LittleMsSam_Retail
 
 https://modthesims.info/d/594573/have-some-personality-please.html - Main mod only
 
+https://www.loverslab.com/topic/79210-eve-v82-290321-update-new-base-meshes-body-preset/ - Female body. I hate loverslab so much
+
 # Personal Taste
 
 These mods arent needed but 
