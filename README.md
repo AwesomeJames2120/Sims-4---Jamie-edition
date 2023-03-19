@@ -62,7 +62,7 @@ https://www.patreon.com/posts/more-columns-in-27751117 - more columns (I use 5 c
 
 https://filedn.eu/lR7BpdmQl5KRLRTrBftolFB/sims4/mods/gameplay/LittleMsSam_RetailOverhaul.zip - retail overhaul
 
-https://modthesims.info/d/594573/have-some-personality-please.html - Main mod only
+https://modthesims.info/d/594573/have-some-personality-please.html - Main mod, cats/dogs, and toddlers
 
 https://www.loverslab.com/topic/79210-eve-v82-290321-update-new-base-meshes-body-preset/ - Female body. I hate loverslab so much
 
